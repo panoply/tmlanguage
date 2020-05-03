@@ -30,8 +30,7 @@
             },
             "uuid": { "type": "string" },
             "firstLineMatch": { "type": "string" }
-          },
-          "required": [ "scopeName" ]
+          }
         }
       ]
     },
